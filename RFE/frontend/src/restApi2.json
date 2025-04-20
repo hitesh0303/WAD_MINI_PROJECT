@@ -1,0 +1,105 @@
+{
+    "data": [
+        {
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpeg",
+                "title": "ROASTED LAMB RUMP",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "CITRUS CURED SALMON",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.png",
+                "title": "PAN SEARED SEA BASS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "STUFFED STRAWBERRY",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "BEEF BURGER MEAL",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "MUSSELS SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 9,
+                "image": "./images99.jpg",
+                "title": "SUSHI",
+                "category": "Dinner"
+            },
+            {
+                "id": 10,
+                "image": "./images98.jpg",
+                "title": "KIMCHI STEW",
+                "category": "Dinner"
+            },
+            {
+                "id": 11,
+                "image": "./biryani.webp",
+                "title": "BIRYANI",
+                "category": "Dinner"
+            },
+            {
+                "id": 12,
+                "image": "./pizza.avif",
+                "title": "MARGHERITA PIZZA",
+                "category": "Lunch"
+            },
+            {
+                "id": 13,
+                "image": "./images97.jpg",
+                "title": "BEEF TACOS",
+                "category": "Lunch"
+            },
+            {
+                "id": 14,
+                "image": "./pp.webp",
+                "title": "PALAK PANEER",
+                "category": "Dinner"
+            },
+            {
+                "id": 15,
+                "image": "./salad.webp",
+                "title": "GREEK SALAD",
+                "category": "Breakfast"
+            },
+            {
+                "id": 16,
+                "image": "./images96.jpg",
+                "title": "CHICKEN TANGINE",
+                "category": "Dinner"
+            }
+        ]
+    
+    } 
+    ]
+}
